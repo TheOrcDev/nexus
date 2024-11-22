@@ -14,7 +14,7 @@ export default function Footer() {
             <Link href="#faq">FAQ</Link>
           </nav>
         </div>
-        <p className="text-center text-sm leading-loose text-muted-foreground md:text-left">
+        <p className="text-center text-sm leading-loose md:text-left text-muted-foreground">
           Built by{" "}
           <a
             href="#"
